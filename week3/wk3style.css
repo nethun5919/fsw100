@@ -1,0 +1,13 @@
+
+h1{
+    color: blue;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
+    
+a{
+    font-weight:bold;
+    color:rgb(90, 90, 129);
+}
